@@ -13,7 +13,7 @@ a partir de transistores **2N3906**, **2N3904** y resistencias.
 
 ## Schematic
 
-![schematic](schematic.png)
+![schematic](media/schematic.png)
 
 
 ## Componentes usados: 
