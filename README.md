@@ -5,15 +5,15 @@ a partir de transistores **2N3906**, **2N3904** y resistencias.
 
 ## Original
 
-[original](media/opam741.jpg)
+![original](media/opam741.jpg)
 
 ## Board
 
-[board](media/board_001.png)
+![board](media/board_001.png)
 
 ## Schematic
 
-[schematic](schematic.png)
+![schematic](schematic.png)
 
 
 ## Componentes usados: 
